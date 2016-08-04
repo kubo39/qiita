@@ -1,0 +1,8 @@
+{
+	"name": "qiita",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, kubo39",
+	"authors": ["kubo39"],
+	"dependencies": {
+	}
+}
