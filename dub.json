@@ -1,8 +1,12 @@
 {
 	"name": "qiita",
-	"description": "A minimal D application.",
-	"copyright": "Copyright © 2016, kubo39",
+	"description": "Simple Qiita API wrapper.",
 	"authors": ["kubo39"],
+  "license": "MIT",
+  "targetType": "library",
+  "targetPath": "target",
 	"dependencies": {
+        "requests": "~>0.1.9",
+        "urld": "~>1.0.0"
 	}
 }

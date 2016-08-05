@@ -1,0 +1,8 @@
+{
+	"name": "example",
+	"description": "A minimal D application.",
+	"authors": ["kubo39"],
+	"dependencies": {
+    "qiita": {"version": "~master", "path": "../"}
+  }
+}
