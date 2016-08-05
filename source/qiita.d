@@ -14,7 +14,7 @@ auto get(string path, string[string] options)
     url ~= path;
     url ~= '?';
     url ~= buildQuery(options);
-    return getContent(url.data); 
+    return getContent(url.data);
 }
 
 auto searchItems(string[string] options)
