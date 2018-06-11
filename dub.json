@@ -2,11 +2,11 @@
 	"name": "qiita",
 	"description": "Simple Qiita API wrapper.",
 	"authors": ["kubo39"],
-  "license": "MIT",
-  "targetType": "library",
-  "targetPath": "target",
+	"license": "MIT",
+	"targetType": "library",
+	"targetPath": "target",
 	"dependencies": {
-        "requests": "~>0.1.9",
-        "urld": "~>1.0.0"
+		"requests": "~>0.8.0",
+		"urld": "~>2.1.0"
 	}
 }

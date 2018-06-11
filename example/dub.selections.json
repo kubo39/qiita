@@ -1,7 +1,21 @@
 {
 	"fileVersion": 1,
 	"versions": {
-		"requests": "0.1.9",
-		"urld": "1.0.0"
+		"botan": "1.12.9",
+		"botan-math": "1.0.3",
+		"diet-ng": "1.5.0",
+		"eventcore": "0.8.35",
+		"libasync": "0.8.3",
+		"libevent": "2.0.2+2.0.16",
+		"memutils": "0.4.10",
+		"mir-linux-kernel": "1.0.0",
+		"openssl": "1.1.6+1.0.1g",
+		"qiita": {"path":"../"},
+		"requests": "0.8.0",
+		"stdx-allocator": "2.77.2",
+		"taggedalgebraic": "0.10.11",
+		"urld": "2.1.0",
+		"vibe-core": "1.4.0",
+		"vibe-d": "0.8.4"
 	}
 }
